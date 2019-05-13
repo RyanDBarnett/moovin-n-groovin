@@ -2,7 +2,7 @@
 
 Replicate comp provided by classmates
 
-[Visit Live App](https://user-images.githubusercontent.com/22114952/57650637-7de9ff00-7588-11e9-9115-2ffe86d32c2c.png)
+![Visit Live App](https://user-images.githubusercontent.com/22114952/57650637-7de9ff00-7588-11e9-9115-2ffe86d32c2c.png)
 
 ### Goals
 Add media queries
