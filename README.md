@@ -2,15 +2,15 @@
 
 Replicate comp provided by classmates
 
-[Visit Live App](https://ryandbarnett.github.io/moovin-n-groovin)
+![Visit Live App](https://ryandbarnett.github.io/moovin-n-groovin/)
 
 ### Goals
 Add media queries
 
 ### Screenshots
-
-![image of normal card screen](https://user-images.githubusercontent.com/22114952/57652080-09b15a80-758c-11e9-8c0c-17a2f29af3c8.png)
+![Visit Live App](https://ryandbarnett.github.io/moovin-n-groovin/)
 ![image of normal card screen](https://user-images.githubusercontent.com/22114952/57652081-09b15a80-758c-11e9-8256-feb511b5874b.png)
+![image of normal card screen](https://user-images.githubusercontent.com/22114952/57652080-09b15a80-758c-11e9-8c0c-17a2f29af3c8.png)
 
 ### Learning Goals
 
