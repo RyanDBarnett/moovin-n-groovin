@@ -15,6 +15,13 @@ header {
   border-bottom: 2px solid #7A9E9F;
 }
 
+h1 {
+  font-family: 'Faster One', cursive;
+  font-size: 4rem;
+  margin: 0;
+  padding-right: 30px;
+}
+
 header img {
   width: 150px;
   height: 150px;
@@ -33,6 +40,7 @@ aside.side-bar {
   border-right: 2px solid #7A9E9F;
   border-bottom: 2px solid #7A9E9F;
 }
+
 aside ul {
   display: flex;
   padding: 0;
@@ -82,4 +90,41 @@ article.person-card {
 
 article img {
   width: 100px;
+}
+
+@media (max-width: 800px) {
+  header {
+    position: fixed;
+    height:100px;
+    top: 0;
+    border-bottom: none;
+    width: 100%;
+    z-index: 10;
+    background: #EEF5DB;
+  }
+
+  header h1 {
+    font-size: 2rem !important ;
+  }
+  aside ul {
+    height: 100px;
+    flex-direction: row;
+    justify-content: flex-start;
+    height: 20%;
+  }
+
+  aside.side-bar {
+    border: none;
+    position: fixed;
+    width: 100%;
+    z-index: 11;
+  }
+  main {
+    margin-top: 100px;
+  }
+
+  section.card-container {
+    position: relative;
+    top: 125px;
+  }
 }
