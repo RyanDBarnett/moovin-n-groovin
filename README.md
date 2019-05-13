@@ -1,23 +1,16 @@
-### Description
+### Moovin n Groovin
 
-This project was built to help users learn about ARIA (Accessible Rich Internet Applications) attributes and how to use them to make their applications more accessible.
+Replicate comp provided by classmates
 
-[Visit Live App](https://ryandbarnett.github.io/memoize/)
+[Visit Live App](https://user-images.githubusercontent.com/22114952/57650637-7de9ff00-7588-11e9-9115-2ffe86d32c2c.png)
 
-### Installation
-
-In order to install and run this app on your local machine type the following in your terminal:
-
-1. `git clone git@github.com:RyanDBarnett/memoize.git`
-2. `cd memoize`
-3. `npm install`
-4. `npm start`
+### Goals
+Add media queries
 
 ### Screenshots
 
-![image of normal card screen](./src/media/aria-app-screenshot.png)
-
-![image of end screen](./src/media/aria-app-end-screenshot.png)
+![image of normal card screen](https://user-images.githubusercontent.com/22114952/57652080-09b15a80-758c-11e9-8c0c-17a2f29af3c8.png)
+![image of normal card screen](https://user-images.githubusercontent.com/22114952/57652081-09b15a80-758c-11e9-8256-feb511b5874b.png)
 
 ### Learning Goals
 
