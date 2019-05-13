@@ -2,7 +2,7 @@
 
 Replicate comp provided by classmates
 
-![Visit Live App](https://ryandbarnett.github.io/moovin-n-groovin/)
+[Visit Live App](https://ryandbarnett.github.io/moovin-n-groovin)
 
 ### Goals
 Add media queries
